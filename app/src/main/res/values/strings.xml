@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">drozer_clip_board</string>
+    <string name="view_inout_password">パスワードを入力してください</string>
+    <string name="execute_button">OK</string>
+    <string name="password">n4DL2Udc</string>
+    <string name="view_confirm_password">もう一度入力してください。</string>
+</resources>
